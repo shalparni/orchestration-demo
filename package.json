@@ -2,23 +2,15 @@
   "express": "^4.14.0",
   "lodash": "^4.17.21"
 }
-
 "dependencies": {
   "express": "^4.14.0",
   "lodash": "^4.17.21",
   "axios": "^0.24.0"
 }
-
-
 "dependencies": {
   "express": "^4.17.2",
   "lodash": "^4.17.21"
 }
-
-
-
-
-
 {
   "name": "Pixi",
   "version": "1.0.0",
